@@ -1,2 +1,2 @@
 # hello-world
-Practice repository for DWA15
+Practice repository for Dynamic Web Applications
